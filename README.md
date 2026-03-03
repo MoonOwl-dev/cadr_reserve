@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cadr_reserve
 
 ***
@@ -115,3 +116,6 @@ git push -u origin master
 - [ ] [Глоссарий](https://docs.gitflic.ru/common/gloss)
 - [ ] [Права доступа ролей](https://docs.gitflic.ru/common/manage_roles)
 - [ ] [Вебхуки](https://docs.gitflic.ru/common/webhook)
+=======
+# cadr-reserve
+>>>>>>> fedc47b25b92c98feef03594151eab0074a18f23
